@@ -15,6 +15,7 @@
 | [math-skill](https://github.com/shuxuexiaoli/math-skill) | 数学技能：中文数学教学 PPT 生成与检修技能（脚本 + 方法论 + 示例截图） |
 | [QuantumultX](https://github.com/shuxuexiaoli/QuantumultX) | Quantumult X 脚本与资源合集：破解重写、去广告、会员解锁与订阅链接 |
 | [resource-radar](https://github.com/shuxuexiaoli/resource-radar) | 每日资源雷达：GitHub Actions 定时监控 QX 上游仓库与新资源 |
+| [airport-subscriptions](https://github.com/shuxuexiaoli/airport-subscriptions) | 免费机场订阅仓库合集：Mihomo / Clash / V2Ray 免费订阅与节点聚合 |
 | [导数练习数据分析平台](https://github.com/shuxuexiaoli/derivative-analysis) | 导数练习数据展示与分析（单页 HTML） |
 
 ## 教学技能仓库
